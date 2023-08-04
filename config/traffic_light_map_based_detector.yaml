@@ -1,0 +1,9 @@
+max_vibration_pitch: 0.01745329251 # -0.5 ~ 0.5 deg
+max_vibration_yaw: 0.01745329251 # -0.5 ~ 0.5 deg
+max_vibration_height: 0.1 # -0.05 ~ 0.05 m
+max_vibration_width: 0.1 # -0.05 ~ 0.05 m
+max_vibration_depth: 0.1 # -0.05 ~ 0.05 m
+max_distance: 100.0
+min_distance: 0.0
+car_offset: -1.2  #앞범퍼 3.7m, 뒷범퍼 -1.2m
+car_offset_bool: False  #정지선 offset 적용 유뮤 True or False 
